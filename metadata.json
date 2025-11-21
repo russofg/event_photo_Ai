@@ -1,0 +1,7 @@
+{
+  "name": "AI Magic Editor - Event Mode",
+  "description": "Tótem de IA para eventos. Captura tu foto y transfórmate al instante.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
